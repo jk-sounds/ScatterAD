@@ -124,13 +124,6 @@ The model employs 12 comprehensive evaluation metrics:
 11. **Volume Under the Surface-ROC (V-ROC)**
 12. **Volume Under the Surface-PR (V-PR)**
 
-## Main Results
-
-![Result 1](./img/result_1.png)
-![Result 2](./img/result_2.png)
-![Result 3](./img/result_3.png)
-![Result 4](./img/result_4.png)
-
 ## Logs
 
 Training and testing logs will be saved in the `../logs/` directory.
